@@ -6,7 +6,7 @@ An AI copilot for SOLIDWORKS that turns natural-language requests into runnable 
  
 ## What it does
  
-Nodestar sits beside SOLIDWORKS as a chat companion. You type something like "add a 5mm fillet to all edges," and it reads your open model, generates the VBA macro to do it, explains what the macro will do in plain English, and runs it on click. It reduced part generation from around 30s of manual work to under 12s.
+Nodestar sits beside SOLIDWORKS as a chat companion. You type something like "add a 5mm fillet to all edges," and it reads your open model, generates the VBA macro to do it, explains what the macro will do in plain English, and runs it on click. It reduced part generation from around 30s of manual work to under 6s.
  
 ## How it works
  
