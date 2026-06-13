@@ -1,6 +1,6 @@
 # Nodestar
  
-**You prompt. We CAD.** An AI copilot for SOLIDWORKS that turns natural-language requests into runnable VBA macros, executed against your live CAD session.
+An AI copilot for SOLIDWORKS that turns natural-language requests into runnable VBA macros, executed against your live CAD session.
  
 ![Nodestar connected to SOLIDWORKS](screenshot.png)
  
